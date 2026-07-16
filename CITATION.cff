@@ -1,0 +1,21 @@
+
+cff-version: 1.2.0
+
+title: "earth2studio-polar: Sea-ice and Southern Ocean extensions for Earth2Studio"
+
+type: software
+
+authors:
+
+  - family-names: Liu
+
+    given-names: Xinlong
+
+    orcid: "https://orcid.org/0000-0001-6794-7571"
+
+repository-code: "https://github.com/xinlongliu0307/earth2studio-polar"
+
+license: Apache-2.0
+
+version: 0.1.0
+
